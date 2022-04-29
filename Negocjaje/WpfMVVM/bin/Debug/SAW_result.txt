@@ -1,0 +1,10 @@
+Oferta 1
+- a: an
+- b: baba
+Ocena: 111
+
+Oferta 2
+- a: av
+- b: baba
+Ocena: 110
+

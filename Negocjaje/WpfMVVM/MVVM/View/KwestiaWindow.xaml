@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfMVVM.MVVM.View.KwestiaWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfMVVM.MVVM.View"
+        xmlns:viewModel="clr-namespace:WpfMVVM.MVVM.ViewModel"
+        mc:Ignorable="d"
+        x:Name="TestWindow"
+        Title="KwestiaWindow" MaxHeight="200" MaxWidth="400" Height="200" Width="400" MinHeight="200" MinWidth="400">
+
+    <Window.DataContext>
+        <viewModel:KwestiaViewModel/>
+    </Window.DataContext>
+
+    <Grid>
+        <Label Content="Podaj nazwę kwestii:"
+               FontSize="16"/>
+        <TextBox Height="30"
+                 Margin="10,0"
+                 Text="{Binding NazwaKwestii, UpdateSourceTrigger=PropertyChanged}"/>
+
+        <Button Background="DeepSkyBlue"
+                Content="Dodaj"
+                Width="130"
+                Height="30"
+                Margin="10"
+                BorderThickness="0"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Bottom"
+                Command="{Binding NowaKwestiaCommand}"
+                CommandParameter="{Binding ElementName=TestWindow}"/>
+    </Grid>
+</Window>
