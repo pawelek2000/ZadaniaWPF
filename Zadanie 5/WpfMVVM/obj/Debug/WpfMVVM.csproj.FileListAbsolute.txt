@@ -1,0 +1,53 @@
+C:\Users\pwojc\source\repos\WpfMVVM\WpfMVVM\bin\Debug\WpfMVVM.exe.config
+C:\Users\pwojc\source\repos\WpfMVVM\WpfMVVM\bin\Debug\WpfMVVM.exe
+C:\Users\pwojc\source\repos\WpfMVVM\WpfMVVM\bin\Debug\WpfMVVM.pdb
+C:\Users\pwojc\source\repos\WpfMVVM\WpfMVVM\obj\Debug\WpfMVVM.csproj.AssemblyReference.cache
+C:\Users\pwojc\source\repos\WpfMVVM\WpfMVVM\obj\Debug\WpfMVVM.csproj.SuggestedBindingRedirects.cache
+C:\Users\pwojc\source\repos\WpfMVVM\WpfMVVM\obj\Debug\MVVM\View\MainWindow.g.cs
+C:\Users\pwojc\source\repos\WpfMVVM\WpfMVVM\obj\Debug\App.g.cs
+C:\Users\pwojc\source\repos\WpfMVVM\WpfMVVM\obj\Debug\WpfMVVM_MarkupCompile.cache
+C:\Users\pwojc\source\repos\WpfMVVM\WpfMVVM\obj\Debug\WpfMVVM_MarkupCompile.lref
+C:\Users\pwojc\source\repos\WpfMVVM\WpfMVVM\obj\Debug\MVVM\View\MainWindow.baml
+C:\Users\pwojc\source\repos\WpfMVVM\WpfMVVM\obj\Debug\WpfMVVM.g.resources
+C:\Users\pwojc\source\repos\WpfMVVM\WpfMVVM\obj\Debug\WpfMVVM.Properties.Resources.resources
+C:\Users\pwojc\source\repos\WpfMVVM\WpfMVVM\obj\Debug\WpfMVVM.csproj.GenerateResource.cache
+C:\Users\pwojc\source\repos\WpfMVVM\WpfMVVM\obj\Debug\WpfMVVM.csproj.CoreCompileInputs.cache
+C:\Users\pwojc\source\repos\WpfMVVM\WpfMVVM\obj\Debug\WpfMVVM.exe
+C:\Users\pwojc\source\repos\WpfMVVM\WpfMVVM\obj\Debug\WpfMVVM.pdb
+C:\Users\pwojc\Desktop\Zadanie 4\WpfMVVM\bin\Debug\WpfMVVM.exe.config
+C:\Users\pwojc\Desktop\Zadanie 4\WpfMVVM\bin\Debug\WpfMVVM.exe
+C:\Users\pwojc\Desktop\Zadanie 4\WpfMVVM\bin\Debug\WpfMVVM.pdb
+C:\Users\pwojc\Desktop\Zadanie 4\WpfMVVM\obj\Debug\WpfMVVM.csproj.AssemblyReference.cache
+C:\Users\pwojc\Desktop\Zadanie 4\WpfMVVM\obj\Debug\WpfMVVM.csproj.SuggestedBindingRedirects.cache
+C:\Users\pwojc\Desktop\Zadanie 4\WpfMVVM\obj\Debug\MVVM\View\MainWindow.g.cs
+C:\Users\pwojc\Desktop\Zadanie 4\WpfMVVM\obj\Debug\App.g.cs
+C:\Users\pwojc\Desktop\Zadanie 4\WpfMVVM\obj\Debug\WpfMVVM_MarkupCompile.cache
+C:\Users\pwojc\Desktop\Zadanie 4\WpfMVVM\obj\Debug\WpfMVVM_MarkupCompile.lref
+C:\Users\pwojc\Desktop\Zadanie 4\WpfMVVM\obj\Debug\MVVM\View\MainWindow.baml
+C:\Users\pwojc\Desktop\Zadanie 4\WpfMVVM\obj\Debug\WpfMVVM.g.resources
+C:\Users\pwojc\Desktop\Zadanie 4\WpfMVVM\obj\Debug\WpfMVVM.Properties.Resources.resources
+C:\Users\pwojc\Desktop\Zadanie 4\WpfMVVM\obj\Debug\WpfMVVM.csproj.GenerateResource.cache
+C:\Users\pwojc\Desktop\Zadanie 4\WpfMVVM\obj\Debug\WpfMVVM.csproj.CoreCompileInputs.cache
+C:\Users\pwojc\Desktop\Zadanie 4\WpfMVVM\obj\Debug\WpfMVVM.exe
+C:\Users\pwojc\Desktop\Zadanie 4\WpfMVVM\obj\Debug\WpfMVVM.pdb
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\bin\Debug\WpfMVVM.exe.config
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\bin\Debug\WpfMVVM.exe
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\bin\Debug\WpfMVVM.pdb
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\obj\Debug\WpfMVVM.csproj.AssemblyReference.cache
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\obj\Debug\WpfMVVM.csproj.SuggestedBindingRedirects.cache
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\obj\Debug\MVVM\View\MainWindow.g.cs
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\obj\Debug\App.g.cs
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\obj\Debug\WpfMVVM_MarkupCompile.cache
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\obj\Debug\WpfMVVM_MarkupCompile.lref
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\obj\Debug\MVVM\View\MainWindow.baml
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\obj\Debug\WpfMVVM.g.resources
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\obj\Debug\WpfMVVM.Properties.Resources.resources
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\obj\Debug\WpfMVVM.csproj.GenerateResource.cache
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\obj\Debug\WpfMVVM.csproj.CoreCompileInputs.cache
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\obj\Debug\WpfMVVM.exe
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\obj\Debug\WpfMVVM.pdb
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\obj\Debug\MVVM\View\DetailsFilmWindow.g.cs
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\obj\Debug\MVVM\View\DetailsFilmWindow.baml
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\obj\Debug\MVVM\View\AddFilmWindow.g.cs
+C:\Users\pwojc\Desktop\zadanie 5\WpfMVVM\obj\Debug\MVVM\View\AddFilmWindow.baml
